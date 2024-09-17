@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: none
-zhihu_username: none
+weibo_username: 
+zhihu_username: 
 github_username: Kaohaaa
 twitter_username: Kaohamburger
 #facebook_username:  Haa Kao

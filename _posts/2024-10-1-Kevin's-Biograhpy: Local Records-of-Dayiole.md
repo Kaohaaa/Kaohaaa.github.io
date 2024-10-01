@@ -2,7 +2,7 @@
 layout:     post
 title:      "開文傳 州志篇 之 德伊奧"
 subtitle:   "Kevin's Biograhpy: Local Records of Dayiole"
-iframe:     "img/the Map of Kevin's Alpha Coke Empire.png"
+iframe:     "img/the-Map-of-Kevin's-Alpha-Coke-Empire.png"
 date:       2024-10-1
 author:     "Kaohaaa"
 tags:

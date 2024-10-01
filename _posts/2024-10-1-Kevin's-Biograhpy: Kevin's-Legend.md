@@ -2,7 +2,7 @@
 layout:     post
 title:      "開文傳 之 鄭文景之治"
 subtitle:   "Kevin's Biograhpy:Kevin's Legend"
-header-img:     "img/the-Map-of-Kevin's-Alpha-Coke-Empire.jpg"
+header-img:     "img/the-Map-of-Kevin-s-Alpha-Coke-Empire.jpg"
 date:       2024-10-1
 author:     "Kaohaaa"
 tags:
